@@ -1,8 +1,9 @@
-# Задача 12: Петя и Катя – брат и сестра. Петя – студент, а Катя – школьница.
-# Петя помогает Кате по математике. Он задумывает два натуральных числа
-# X и Y (X,Y≤1000), а Катя должна их отгадать. Для этого Петя делает две подсказки.
-# Он называет сумму этих чисел S и их произведение P.
-# Помогите Кате отгадать задуманные Петей числа.
+# Task 12: Petya and Katya are brother and sister.
+# Petya is a student, and Katya is a schoolgirl.
+# Petya helps Katya with math. He conceives two natural numbers
+# X and Y (X,Y≤1000), and Katya has to guess them. To do this, Petya makes two clues.
+# He calls the sum of these numbers S, and their product P.
+# Help Katya guess the numbers Petya has planned.
 
 S = int(input('Enter the sum of two numbers S: '))
 P = int(input('Enter the product of two numbers P: '))
