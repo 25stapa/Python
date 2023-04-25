@@ -18,7 +18,7 @@ num_from_list = int(input('\nEnter a number from the list: '))
 print(f'The number {num_from_list} appears in the list {some_list.count(num_from_list)} time')
 
 # second solution
-print('\nsecond solution')
+print('\n second solution')
 count = 0
 for i in some_list:
     if num_from_list == i:
